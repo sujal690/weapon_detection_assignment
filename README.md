@@ -39,7 +39,7 @@ This project implements an advanced **weapon detection system** using YOLOv8 dee
 ## 🖼️ Screenshots
 
 ### F1 Curve:
-![F1 Curve](yolov8n_results2/BoxF1_curver.jpg)
+![F1 Curve](runs/detect/val3/BoxF1_curver.jpg)
 *Sample training batch showing ground truth annotations*
 
 ### Validation Results
@@ -55,12 +55,7 @@ This project implements an advanced **weapon detection system** using YOLOv8 dee
 *Precision-Recall curve showing model performance*
 
 ### Video Detection Example
-```
-[ALERT] Frame 1234: MEDIUM - gun
-THREAT: MEDIUM
-Frame: 1234 | 14:23:15
-Detection: gun (0.87 confidence)
-```
+
 
 ## 🛠️ Installation
 
