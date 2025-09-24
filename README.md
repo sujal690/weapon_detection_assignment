@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/6e2fc1e7-964c-4e25-ac9a-7c78caedfee7
 
 ### Step 1: Clone Repository
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/sujal690/weapon_detection_assignment)>
 cd weapon-detection-system
 ```
 
