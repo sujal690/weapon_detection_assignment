@@ -38,8 +38,8 @@ This project implements an advanced **weapon detection system** using YOLOv8 dee
 
 ## 🖼️ Screenshots
 
-### Training Results
-![Training Curves](yolov8n_results2/train_batch0.jpg)
+### F1 Curve:
+![F1 Curve](yolov8n_results2/BoxF1_curver.jpg)
 *Sample training batch showing ground truth annotations*
 
 ### Validation Results
@@ -47,7 +47,7 @@ This project implements an advanced **weapon detection system** using YOLOv8 dee
 *Model predictions on validation set*
 
 ### Confusion Matrix
-![Confusion Matrix](runs/detect/val3/confusion_matrix.png)
+![Confusion Matrix](runs/detect/val3/confusion_matrix_normalized.png)
 *Model performance confusion matrix*
 
 ### Performance Curves
