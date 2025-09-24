@@ -39,7 +39,7 @@ This project implements an advanced **weapon detection system** using YOLOv8 dee
 ## 🖼️ Screenshots
 
 ### F1 Curve:
-![F1 Curve](runs/detect/val3/BoxF1_curver.jpg)
+![F1 Curve](runs/detect/val3/BoxF1_curve.jpg)
 *Sample training batch showing ground truth annotations*
 
 ### Validation Results
@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/6e2fc1e7-964c-4e25-ac9a-7c78caedfee7
 
 ### Step 1: Clone Repository
 ```bash
-git clone <[repository-url](https://github.com/sujal690/weapon_detection_assignment)>
+git clone <https://github.com/sujal690/weapon_detection_assignment>
 cd weapon-detection-system
 ```
 
