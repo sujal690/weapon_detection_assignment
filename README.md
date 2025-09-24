@@ -55,7 +55,7 @@ This project implements an advanced **weapon detection system** using YOLOv8 dee
 *Precision-Recall curve showing model performance*
 
 ### Video Detection Example
-
+https://github.com/user-attachments/assets/6e2fc1e7-964c-4e25-ac9a-7c78caedfee7
 
 ## 🛠️ Installation
 
