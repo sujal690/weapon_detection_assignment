@@ -38,10 +38,6 @@ This project implements an advanced **weapon detection system** using YOLOv8 dee
 
 ## 🖼️ Screenshots
 
-### F1 Curve:
-![F1 Curve](runs/detect/val3/BoxF1_curve.jpg)
-*Sample training batch showing ground truth annotations*
-
 ### Validation Results
 ![Validation Results](runs/detect/val3/val_batch0_pred.jpg)
 *Model predictions on validation set*
